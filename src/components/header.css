@@ -1,0 +1,11 @@
+.login-header {
+    background: #C1BABA;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login-header h1 {
+    color: #0C0000;
+    font-size: 15px;
+    margin: 20px;
+}
